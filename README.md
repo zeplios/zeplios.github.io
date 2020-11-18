@@ -1,6 +1,7 @@
-## 不错的链接
+## 开眼看世界
 
-* [SSH实现Socks5代理](wall/ssh-socks5)
+* [SSH实现Socks5代理](gfw/ssh-socks5)
+* [ShadowsocksR/SSR一键脚本](gfw/shadowsocksr-ssr-one-click-script)
 
 ### 图片素材
 
